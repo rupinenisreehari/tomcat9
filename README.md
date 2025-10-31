@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Apache Tomcat 9 Installation Guide on Ubuntu (with systemd)
 
 This guide explains how to install **Apache Tomcat 9** on **Ubuntu** with **OpenJDK 17**, configure it as a **systemd service**, and manage it easily using `systemctl`.
